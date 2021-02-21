@@ -1,4 +1,4 @@
-#Getting Started
+# Getting Started
 
 1. Ensure that you have expo-cli installed on your pc.
 2. Install the dependencies using 'npm install' command
